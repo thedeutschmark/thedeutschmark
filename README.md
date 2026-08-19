@@ -4,7 +4,7 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 
 | | Tool | What it is |
 |:---:|------|------------|
-| <img src="assets/icons/pathos.svg" width="44"> | **[P.A.T.H.O.S.](https://yourpathos.app)** | Optimizes your resume per role and automatically tracks it all |
+| <img src="assets/icons/pathos.svg" width="44"> | **[Pathos](https://yourpathos.app)** | Optimizes your resume per role and automatically tracks it all |
 | <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedevmark/alert-alert)** | Make clean stream-alert clips from any video source. |
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedevmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
@@ -42,6 +42,6 @@ TypeScript · React · Zustand · Next.js · Python · C# · Supabase · Prisma 
 - **[deutschmark.online](https://deutschmark.online)** — marketing root, 3D carousel
 - **[toolset.deutschmark.online](https://toolset.deutschmark.online)** — overlays + companion apps + docs
 - **[collab.deutschmark.online](https://collab.deutschmark.online)** — stream collab scheduler
-- **[yourpathos.app](https://yourpathos.app)** — Personalized Application Tracking & Hiring Optimization System
+- **[yourpathos.app](https://yourpathos.app)** — Pathos - Your job search, connected
 - **[dev.deutschmark.online](https://dev.deutschmark.online)** — recruiter-facing portfolio
 - **[twitch.tv/thedeutschmark](https://twitch.tv/thedeutschmark)** · **[Discord](https://discord.com/invite/hQEQE9myXX)**
